@@ -1,0 +1,21 @@
+{
+  "name": "gatsby-source-github-pinned",
+  "description": "Gatsby source plugin for fetching pinned repositories.",
+  "version": "0.0.1",
+  "author": "Edgar Ramírez Mondragón <edgarrm358@gmail.com>",
+  "repository": "https://github.com/gatsby-source-github-pinned",
+  "bugs": {
+    "url": "https://github.com/gatsby-source-github-pinned/issues"
+  },
+  "main": "index.js",
+  "deprecated": false,
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "gatsby-source-plugin"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.2.0"
+  }
+}
